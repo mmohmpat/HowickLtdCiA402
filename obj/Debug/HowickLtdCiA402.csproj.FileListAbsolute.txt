@@ -1,0 +1,11 @@
+C:\Users\mahmad\source\repos\HowickLtdCiA402\obj\Debug\HowickLtdCiA402.csproj.AssemblyReference.cache
+C:\Users\mahmad\source\repos\HowickLtdCiA402\obj\Debug\HowickLtdCiA402.csproj.SuggestedBindingRedirects.cache
+C:\Users\mahmad\source\repos\HowickLtdCiA402\obj\Debug\HowickLtdCiA402.Form1.resources
+C:\Users\mahmad\source\repos\HowickLtdCiA402\obj\Debug\HowickLtdCiA402.Properties.Resources.resources
+C:\Users\mahmad\source\repos\HowickLtdCiA402\obj\Debug\HowickLtdCiA402.csproj.GenerateResource.cache
+C:\Users\mahmad\source\repos\HowickLtdCiA402\obj\Debug\HowickLtdCiA402.csproj.CoreCompileInputs.cache
+C:\Users\mahmad\source\repos\HowickLtdCiA402\bin\Debug\HowickLtdCiA402.exe.config
+C:\Users\mahmad\source\repos\HowickLtdCiA402\bin\Debug\HowickLtdCiA402.exe
+C:\Users\mahmad\source\repos\HowickLtdCiA402\bin\Debug\HowickLtdCiA402.pdb
+C:\Users\mahmad\source\repos\HowickLtdCiA402\obj\Debug\HowickLtdCiA402.exe
+C:\Users\mahmad\source\repos\HowickLtdCiA402\obj\Debug\HowickLtdCiA402.pdb
